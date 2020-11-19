@@ -48,7 +48,7 @@ export default class MyDocument extends Document {
           />
           <link
             rel="icon"
-            href="https://acsmack.blob.core.windows.net/acs/acs.ico"
+            href=""
           />
         </Head>
         <body>
